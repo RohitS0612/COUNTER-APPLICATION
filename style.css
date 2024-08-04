@@ -139,6 +139,10 @@ button:hover {
 }
 
 @media (max-width: 768px) {
+ 
+    h1{
+        margin-top: 70px;
+    }
     main {
         width: 90%;
         height: 50vh;
