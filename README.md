@@ -19,7 +19,7 @@ This is a simple and interactive Counter Application built with HTML, CSS, and J
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/counter-application.git
+    https://github.com/RohitS0612/COUNTER-APPLICATION.git
     ```
 
 2. **Navigate to the project directory**:
